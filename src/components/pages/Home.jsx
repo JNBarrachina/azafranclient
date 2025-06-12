@@ -1,8 +1,8 @@
 
 export const Home = () => {
     return (
-        <main>
-            <h1>¡Welcome to Azafrán, Food Lover!</h1>
+        <main className="mainhome">
+            <h1 className="hometitle">¡Welcome to Azafrán, Food Lover!</h1>
         </main>
     )
 }
